@@ -3,12 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.photon.phresco</groupId>
   <artifactId>Demo-Git</artifactId>
-  <version>2.2.5-SNAPSHOT</version>
+  <version>1.0.0-SNAPSHOT</version>
     <scm>
         <connection>https://github.com/saravanan-na/Robot.git</connection>
         <developerConnection>scm:git:https://github.com/saravanan-na/Robot.git</developerConnection>
         <url>scm:git:https://github.com/saravanan-na/Robot.git</url>
-      <tag>Branch1</tag>
+      <tag>HEAD</tag>
   </scm>
   <name>Demo-Git</name>
   <packaging>war</packaging>
